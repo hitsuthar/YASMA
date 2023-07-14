@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "YASMA",
+    "slug": "YASMA",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon":"res/icons.png",
+    "extra": {
+      "eas": {
+        "projectId": "32563773-55af-4035-bce7-25d6846fd6dc"
+      }
+    },
+    "android": {
+      "package": "com.hitsuthar.YASMA"
+    }
+  }
+}
